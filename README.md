@@ -1,2 +1,2 @@
-C++ from CS211
-Java from CS212
+C++ from CS211 and Java from CS212
+Hyperdoc is notes from Java.
